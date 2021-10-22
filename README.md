@@ -1,2 +1,4 @@
-# CAPITAO-AM-RICA
-Desafio passado pela professora Thaiane no programa Edutech-PR feito através dos ensinos da plataforma Alura.
+# curso-alura-arquitetura-css
+Projeto feito para o curso de Arquitetura CSS para Alura
+
+Protótipo: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1
